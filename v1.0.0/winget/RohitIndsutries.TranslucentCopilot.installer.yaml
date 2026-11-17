@@ -1,0 +1,41 @@
+PackageIdentifier: RohitIndsutries.TranslucentCopilot
+PackageVersion: 1.0.0
+Installers:
+  - Architecture: x64
+    InstallerType: msix
+    InstallerUrl: https://livecopilot.in/downloads/Translucent-Copilot-v1.0.0-x64.msix
+    InstallerSha256: CF90EA43EC0C2B3F425DB339ADDE501B5F02B01E1E6C1ABE92C7BE2A5A1BB989
+    SignatureSha256: 5404AABF9A10ECDAE6DFA7B9EAD22C279E9792B2
+    PackageFamilyName: RohitIndsutries.TranslucentCopilot_qa4b4tr0s02ze
+    MinimumOSVersion: 10.0.17763.0
+    AppsAndFeaturesEntries:
+      - DisplayName: Translucent Copilot
+        Publisher: Rohit Indsutries
+        DisplayVersion: 1.0.0
+  - Architecture: x64
+    InstallerType: inno
+    InstallerUrl: https://livecopilot.in/downloads/Translucent-Copilot-v1.0.0-Setup-x64.exe
+    InstallerSha256: 6D07DAE37AB21548F76B59B91FAA72824203A913C3369987429E3CDB4637591B
+    InstallerSwitches:
+      Silent: /VERYSILENT /SUPPRESSMSGBOXES /NORESTART
+      SilentWithProgress: /SILENT /SUPPRESSMSGBOXES /NORESTART
+  - Architecture: arm64
+    InstallerType: msix
+    InstallerUrl: https://livecopilot.in/downloads/Translucent-Copilot-v1.0.0-ARM64.msix
+    InstallerSha256: B6FEA56A3C28B11CAB5957EB6BA45A9D59EBD0CA1C684B25A891A38500072DEA
+    SignatureSha256: 5404AABF9A10ECDAE6DFA7B9EAD22C279E9792B2
+    PackageFamilyName: RohitIndsutries.TranslucentCopilot_qa4b4tr0s02ze
+    MinimumOSVersion: 10.0.17763.0
+    AppsAndFeaturesEntries:
+      - DisplayName: Translucent Copilot
+        Publisher: Rohit Indsutries
+        DisplayVersion: 1.0.0
+  - Architecture: arm64
+    InstallerType: inno
+    InstallerUrl: https://livecopilot.in/downloads/Translucent-Copilot-v1.0.0-Setup-ARM64.exe
+    InstallerSha256: B7128107D0C15F0B4A04A1AAC9B37A7C2B8DEFE867B936BCBC9B92DDE1792030
+    InstallerSwitches:
+      Silent: /VERYSILENT /SUPPRESSMSGBOXES /NORESTART
+      SilentWithProgress: /SILENT /SUPPRESSMSGBOXES /NORESTART
+ManifestType: installer
+ManifestVersion: 1.6.0

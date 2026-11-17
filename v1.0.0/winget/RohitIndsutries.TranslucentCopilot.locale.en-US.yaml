@@ -1,0 +1,29 @@
+PackageIdentifier: RohitIndsutries.TranslucentCopilot
+PackageVersion: 1.0.0
+PackageLocale: en-US
+Publisher: Rohit Indsutries
+PublisherUrl: https://livecopilot.in
+PublisherSupportUrl: https://livecopilot.in/docs
+PrivacyUrl: https://livecopilot.in/privacy
+PackageName: Translucent Copilot
+PackageUrl: https://livecopilot.in
+License: Proprietary
+LicenseUrl: https://livecopilot.in/terms
+Copyright: Copyright (c) 2026 Rohit Industries. All rights reserved.
+ShortDescription: Stealth Real-Time AI Assistant for Live Technical Interviews, Meetings & Voice Prep.
+Description: >-
+  Translucent Copilot is a lightweight, stealth real-time AI desktop assistant for Windows.
+  It transcribes live system audio and meetings locally, provides instantaneous AI assistance,
+  AI mock voice practice with star difficulty options, and automated interview report scorecards.
+Moniker: translucent-copilot
+Tags:
+  - ai
+  - copilot
+  - interview
+  - stealth
+  - meeting-assistant
+  - whisper
+  - speech-to-text
+ReleaseNotesUrl: https://livecopilot.in/downloads
+ManifestType: defaultLocale
+ManifestVersion: 1.6.0
